@@ -1,0 +1,55 @@
+**Meeting Summary for Vitable Health and Maximum Care, Inc.**
+
+**Participants:**
+- Ryan Plank (Vitable Health)
+- Olivia Berens (Vitable Health)
+- Karolina Auron (Maximum Care, Inc.)
+- Brian Cottone Jr. (Maximum Care, Inc.)
+
+**Main Topics Discussed:**
+
+1. **Introduction and Overview**
+   - Karolina shared details about Maximum Care, Inc.'s current partnership with St. Luke's for healthcare testing and benefits. The organization provides **PPD tests** for TB screening and **annual physical exams** for employees.
+   - Ryan outlined Vitable Health's healthcare solutions, focusing on providing a more affordable and efficient process for healthcare needs, particularly TB testing and physicals.
+
+2. **Vitable’s Healthcare Offerings**
+   - **TB Testing Solutions**: Ryan discussed Vitable's one-step TB testing option, the **Quantiferon Gold blood test**, available through Labcorp and Quest. This option aims to replace the two-step PPD test used by Maximum Care, providing increased efficiency.
+   - **Cost Concerns**: Karolina emphasized the need for affordable testing options, as the current cost per TB test is $60. Ryan confirmed that Vitable could match the $60 pricing for TB tests through Labcorp, but Quest would be slightly more expensive.
+
+3. **Platform Fee and Pricing Concerns**
+   - Karolina highlighted concerns regarding **platform fees** associated with Vitable's services, which are an additional cost compared to the current setup with St. Luke's.
+   - Ryan explained that the platform fee could potentially be waived for Maximum Care, contingent on other factors, such as the number of TB tests requested per quarter.
+   - Ryan also confirmed that physicals through CVS would cost **$105 per employee**, higher than the current cost of **$72** that Maximum Care is paying.
+
+4. **Employee Engagement and Onboarding Challenges**
+   - Karolina mentioned the high **turnover rate** among employees, which leads to inefficiencies and increased costs for onboarding processes like TB testing.
+   - Ryan discussed Vitable’s approach to employee engagement and how they could help streamline onboarding by offering a one-step process for required medical tests, reducing delays associated with two-step PPD testing.
+
+5. **Flexible Testing Options**
+   - Ryan outlined how Maximum Care could split their TB testing needs between **Labcorp and Quest** based on geographic availability, offering more flexibility to employees in rural areas.
+   - There was also a discussion regarding the number of tests required each quarter, with Ryan suggesting starting with **20-30 tests per quarter** and scaling up based on usage.
+
+6. **Next Steps**
+   - Karolina expressed interest in exploring Vitable’s offerings further if the **platform fee** could be waived, and if testing and physical costs could be maintained or reduced.
+   - Ryan agreed to provide additional materials, including the **locations of Labcorp facilities** and more information on Vitable's **MEC plans**, which are aimed at keeping companies ACA-compliant.
+   - A potential pilot program was discussed, focusing on streamlining TB testing for new hires, with a follow-up meeting planned once Karolina reviews the provided materials.
+
+**Company Information:**
+
+1. **Company Name:** Maximum Care, Inc.
+2. **Company Industry:** Home Care Services
+3. **Company Size:** Approximately 60-70 full-time employees
+4. **Previous Knowledge of TB Testing:** Familiar with in-house PPD testing, now outsourced to St. Luke's for cost-efficiency.
+5. **Core Challenges:**
+   - High **cost** of TB tests and physical exams.
+   - **Turnover** among employees leads to repeated onboarding expenses.
+   - Balancing the **cost of platform fees** with current cost-saving measures.
+6. **What They're Looking For:**
+   - Affordable **TB testing** and **physical exams** for onboarding.
+   - A **waived platform fee** to make transitioning to Vitable more appealing.
+   - Improved **onboarding efficiency** and flexibility for remote employees.
+
+**Next Steps Suggested:**
+- Ryan to send detailed information regarding **Labcorp locations**, MEC plan details, and pricing breakdowns.
+- Karolina to consider the waiver of platform fees and the potential for launching a **pilot program** with Vitable Health.
+- Follow-up meeting to be planned after Karolina reviews the provided materials.
