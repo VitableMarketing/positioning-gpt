@@ -1,0 +1,50 @@
+### Summary of Meeting between Preferred Home Health Care & Nursing Services and Vitable Health
+
+**Participants:**
+- Lauren Brady (Vitable Health)
+- Jessie Carmichael (Preferred Home Health Care & Nursing Services)
+
+**Main Topics Discussed:**
+
+1. **Current TB Testing Process at Preferred Home Health:**
+   - Jessie explained that Preferred Home Health currently uses MedExpress for their TB testing requirements, including the two-step PPD test.
+   - There are several challenges with the current process, such as delays in onboarding due to the requirement for multiple visits and issues with MedExpress mistakenly billing Preferred for tests that the company did not authorize.
+   - Jessie emphasized that they are seeking ways to streamline the TB testing process, as it involves manual monitoring and additional administrative overhead, particularly in identifying which employees are approved for the testing.
+
+2. **Vitable’s Proposal for TB Testing Services:**
+   - Lauren introduced Vitable’s TB testing solution, emphasizing the use of a one-step test, which significantly reduces the onboarding time for new hires.
+   - Vitable’s system offers automated referrals via text or email to caregivers, allowing them to schedule appointments at LabCorp or Quest. This approach speeds up the process and minimizes administrative tasks for HR.
+   - The automation also includes direct sending of test results to the employer, eliminating the risk of caregivers misusing their test results at other employers.
+   - Jessie noted that the transition to a one-step test and the automated system would likely be beneficial in reducing the onboarding time, which is currently about three to four weeks.
+
+3. **Pricing and Contract Details:**
+   - Lauren shared the PHA (Pennsylvania Homecare Association) pricing, which offers discounted rates for TB tests conducted through LabCorp or Quest.
+   - Jessie asked about pricing for smaller volumes, such as five tests per quarter, as their needs might not always reach the thresholds that qualify for higher discounts. Lauren explained that the PHA rates apply starting from 20 tests per quarter, but lower volumes would revert to standard pricing.
+   - The PHA pricing also waives the startup and platform fees typically associated with setting up the testing service, which can be substantial. The waived fees were seen as a positive feature of the PHA membership.
+
+4. **Concerns about Pre-Purchasing Tests:**
+   - Jessie expressed concerns about the requirement to pre-purchase a set number of tests per quarter, which could become burdensome for the billing team to track usage accurately.
+   - Lauren clarified that Vitable’s online portal provides real-time tracking of the number of tests used, helping minimize the administrative load. Notifications are also sent out as usage approaches the pre-purchased limit.
+   - Jessie appreciated the effort to streamline the tracking process but remained hesitant about the potential administrative burden of managing pre-purchased tests.
+
+5. **Next Steps:**
+   - Jessie requested additional time to review the proposal and share it with his colleagues and regional manager. He was interested in exploring the possibility of using the platform across multiple offices to benefit from volume-based discounts.
+   - Lauren suggested setting up a follow-up meeting, including a potential demo of the platform, to help Jessie and his colleagues better understand the system and its features.
+   - Jessie agreed to schedule a demo and proposed connecting again the following Tuesday for a more detailed discussion.
+
+**Company Information:**
+
+1. **Company Name:** Preferred Home Health Care & Nursing Services
+2. **Company Industry:** Home Health Care Services
+3. **Company Size:** Multiple locations, approximately 5,000 external employees
+4. **Previous Knowledge of the Affordable Care Act:** Not explicitly discussed.
+5. **Core Challenges:**
+   - Current TB testing process is inefficient, leading to delays in onboarding new hires.
+   - Issues with unauthorized billing by MedExpress and the need for a more streamlined and manageable process.
+6. **What They're Looking For:**
+   - A faster, more efficient TB testing solution to improve onboarding speed.
+   - Reduced administrative burden, particularly concerning billing and tracking TB test usage.
+
+**Next Steps Suggested:**
+- Lauren to send Jessie detailed information, including PHA and non-PHA pricing.
+- A demo of the Vitable platform to be scheduled for further understanding of its features and workflow integration.
