@@ -1,0 +1,56 @@
+**Meeting Summary for Vitable Health and Emerest Home Care**
+
+**Participants:**
+- Ryan Plank (Vitable Health)
+- Olivia Berens (Vitable Health)
+- Gretchen Bish (Emerest Home Care)
+
+**Main Topics Discussed:**
+
+1. **Introduction and Background**
+   - Ryan initiated the meeting by outlining the objective of discussing Vitable’s potential role in meeting Emerest’s healthcare and testing needs. 
+   - Gretchen noted that she previously learned about Vitable through interactions at the HHA Exchange Summit in Pennsylvania and the PHA meeting.
+   - The main issue of interest for Emerest Home Care was related to **TB testing**, which has long been a challenge in the home care space.
+
+2. **Current Challenges with TB Testing**
+   - Gretchen explained that Emerest currently uses **Quest Labs** for drug screenings but cannot utilize them for **TB tests** due to not having the capability to write the required script.
+   - Currently, Emerest relies on local **MedExpress** or other urgent care facilities for TB testing, using the **two-step PPD process**. This setup has led to inefficiencies, such as employees forgetting to return for follow-up readings, resulting in delays and additional costs.
+   - Ryan empathized with the difficulties described by Gretchen, acknowledging that the two-step TB test process is a widespread pain point in the home care industry.
+
+3. **Vitable's TB Testing Solutions**
+   - Ryan presented Vitable’s **Quantiferon Gold** TB testing option, which is a **one-step test** that provides a faster and more convenient alternative to the two-step PPD test. This approach is available through both **Labcorp** and **Quest**.
+   - Gretchen was interested in Vitable’s capability of using Quest labs, which would simplify the process by providing a single location for both drug screening and TB testing.
+   - Ryan also highlighted Vitable’s **automated reminders and scheduling system**, which helps ensure employees complete their tests on time by sending text reminders and directing them to the nearest lab.
+
+4. **Lab Options and Cost Considerations**
+   - Ryan provided details about Vitable’s partnership with **Quest** and **Labcorp**. He noted that **Labcorp** generally offers a slightly lower price ($15 cheaper per test) compared to Quest, depending on availability in the area.
+   - Gretchen agreed to review Labcorp locations to determine if they might be a feasible option for her staff, especially for areas where Quest has limited accessibility.
+   - Ryan explained the pricing structure for the Quantiferon Gold test, which ranges from **$70 to $80 per test** depending on volume. He suggested starting with a conservative number of tests and adjusting as needed to better manage costs.
+
+5. **Platform Overview and Employee Engagement**
+   - Ryan provided a brief overview of Vitable’s **digital platform**, including a dashboard that allows clients to manage employee onboarding, schedule tests, and track usage in real time.
+   - Gretchen was pleased with the streamlined approach, noting its similarity to their current drug screening management system. She expressed interest in the **one-stop shop** model for employee health services.
+   - Ryan also mentioned Vitable’s **customer success team**, which is available to assist clients with setup and ongoing support, ensuring smooth onboarding and compliance with healthcare requirements.
+
+6. **Next Steps**
+   - Gretchen expressed a need to bring in her internal team for a more in-depth look at Vitable’s platform, particularly to evaluate the dashboard functionalities.
+   - Ryan agreed to send **Labcorp and Quest location links** so Gretchen could assess local availability. He also planned to follow up with detailed information on pricing and to confirm the data retention policies related to **HIPAA compliance**.
+   - A follow-up meeting was scheduled for **Thursday at 11:00 AM** to dive deeper into platform specifics and address any remaining questions.
+
+**Company Information:**
+
+1. **Company Name:** Emerest Home Care
+2. **Company Industry:** Home Care Services
+3. **Company Size:** Growing, recently expanded to the Pittsburgh market
+4. **Previous Knowledge of TB Testing:** Experienced with two-step PPD tests, but facing inefficiencies and delays.
+5. **Core Challenges:**
+   - Difficulty coordinating **two-step TB tests**, leading to delays and missed appointments.
+   - High cost and logistical inefficiencies of using **urgent care facilities** for TB testing.
+6. **What They're Looking For:**
+   - A more **efficient and affordable** TB testing solution that consolidates services.
+   - Improved **automation** for reminders and scheduling to reduce manual follow-up efforts.
+
+**Next Steps Suggested:**
+- Ryan to send links for locating **Labcorp and Quest** facilities.
+- Gretchen to assess Labcorp location availability in the Pittsburgh area.
+- Schedule a follow-up call with Emerest's internal team to review the Vitable platform and discuss potential next steps in greater detail.
