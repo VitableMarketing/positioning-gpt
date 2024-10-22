@@ -1,0 +1,58 @@
+**Meeting Summary for Vitable Health and Sandcastle Homecare (September 18, 2024)**
+
+**Participants:**
+- Ryan Plank (Vitable Health)
+- Olivia Berens (Vitable Health)
+- Drew Hicken (Vitable Health)
+- Mara Rivers (Sandcastle Homecare)
+
+**Main Topics Discussed:**
+
+1. **Introduction and Meeting Objective**
+   - The meeting was set up as an initial discussion to explore whether Vitable Health could be a suitable fit for Sandcastle Homecare’s health benefits needs. 
+   - Ryan led the meeting and was joined by Olivia and Drew. The objective was to learn more about Sandcastle Homecare's current healthcare offerings, challenges, and discuss how Vitable might provide a better solution.
+
+2. **Background on Sandcastle Homecare**
+   - Sandcastle Homecare operates across multiple locations, each with different employer identification numbers, but all falling under the "Sandcastle" brand. They have **459 caregivers** and **40 office staff**.
+   - The office staff are currently offered a **Florida Blue health insurance plan**, but enrollment among caregivers is very low. Only around **15 caregivers** out of the total 459 have enrolled in the existing **Minimum Essential Coverage (MEC)** plan.
+   - Mara mentioned that their employees, particularly caregivers, are predominantly low-income, and many prefer state-funded options, such as **Medicaid**. Therefore, the current offerings have not been effective in driving enrollment.
+
+3. **Current Challenges with Health Benefits**
+   - **Low Enrollment**: The uptake of current health benefits is very low, with caregivers not finding the current MEC plan appealing or accessible. Many fear losing their existing Medicaid benefits if they enroll in the employer-provided plan.
+   - **Administrative Burden**: Mara explained that administering the benefits is labor-intensive. She is responsible for enrolling employees, sending out **DocuSign** forms, and ensuring they complete enrollment. There are few automated processes or outreach efforts to help employees understand their options.
+   - **Limited Options**: The current plan offers only two choices, and Mara felt that this limited offering might not be sufficient to meet the diverse needs of employees. There was also a concern about the cost, especially for part-time employees, making the existing plan unattractive.
+
+4. **Vitable's Health Benefits Overview**
+   - Ryan introduced Vitable’s three-tiered plan offering, emphasizing flexibility and affordability:
+     - **Vitable Primary Care Plan**: Covers **same-day virtual doctor visits**, **free prescriptions**, **mental health services**, and **free lab tests** for employees and their in-home dependents at no cost. This plan is employer-funded at **$30 per employee per month**.
+     - **MEC Plan**: Includes wellness visits and preventive screenings with an open network system allowing employees to see any doctor and be reimbursed if paid out-of-pocket. The employee contribution is **$30 per month**.
+     - **MEC Plus Plan**: Includes everything in the MEC plan plus **urgent care**, **specialist visits**, and **imaging services** like X-rays, with a **$125 per month** contribution from employees.
+   - The **Vitable Primary Care Plan** is company-funded, while the **MEC and MEC Plus** are optional buy-up plans for employees.
+
+5. **Key Areas of Interest for Sandcastle**
+   - **Dependents Coverage**: Mara appreciated that Vitable's Primary Care Plan also covers **in-home dependents** at no extra cost. This includes roommates, extended family, or anyone sharing the employee’s address, making it a valuable option for caregivers.
+   - **Outreach and Enrollment Support**: Mara highlighted the challenges in communicating health plan options effectively to caregivers. Ryan explained that Vitable has an outreach team that handles employee education and communication, helping employees understand and enroll in available plans through texts, emails, and newsletters.
+   - **Flexibility and Accessibility**: Mara stressed the importance of having **urgent care** and **specialist** options in the plans. She also mentioned that caregivers often have inconsistent schedules, making the **flexibility** of virtual healthcare through Vitable very attractive.
+
+6. **Discussion on Cost and Affordability**
+   - Mara noted that for caregivers, the cost of healthcare is a major consideration, especially given their reliance on Medicaid or state-funded health plans. She was interested in how Vitable's plans compare in terms of affordability.
+   - The **MEC Plus Plan** appeared to be priced slightly higher compared to Sandcastle’s existing offerings, but Mara acknowledged the added benefits like **urgent care** and **specialist** coverage, which could be appealing to employees seeking more comprehensive care.
+
+7. **Next Steps and Follow-Up**
+   - Mara expressed interest in continuing discussions after comparing the **full-time equivalent (FTE)** costs for Sandcastle’s employees using Vitable’s Primary Care Plan.
+   - Ryan suggested a follow-up meeting on **Wednesday, September 25th**, to discuss the final cost comparisons and any other questions Mara might have after reviewing the details.
+
+**Company Information:**
+
+1. **Company Name**: Sandcastle Homecare
+2. **Company Industry**: Homecare Services
+3. **Company Size**: **459 caregivers** and **40 office staff**
+4. **Previous Knowledge of Health Benefits**: Uses a **Florida Blue plan** for office staff, and an **MEC plan** for caregivers with low enrollment.
+5. **Core Challenges**:
+   - **Low enrollment** in the current health plan due to affordability issues and lack of clear communication.
+   - **Administrative burden** on HR staff for managing enrollments manually.
+   - Limited health plan options that do not meet diverse employee needs.
+6. **What They're Looking For**:
+   - A **cost-effective**, accessible healthcare solution that works well for both part-time and full-time employees.
+   - Enhanced **outreach and enrollment** support to simplify employee education and increase participation.
+   - **Expanded options** like **urgent care**, **specialist coverage**, and **flexible telehealth services** to address caregivers’ needs.
