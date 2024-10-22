@@ -1,0 +1,50 @@
+**Meeting Summary for Vitable Health and QMA (October 16, 2024)**
+
+**Participants:**
+- Ryan Plank (Vitable Health)
+- Danielle Hollis (QMA)
+- Chloe Coppedge (QMA)
+
+**Main Topics Discussed:**
+
+1. **Meeting Objective**
+   - The main focus of this meeting was to explore the possibility of a collaboration between Vitable Health and QMA, particularly for occupational health services, including drug testing and tuberculosis (TB) testing.
+   - Chloe outlined QMA’s interest in finding an alternative provider for these services due to current issues with turnaround times and process inefficiencies with their current vendor, **Concentra**.
+
+2. **Current State at QMA**
+   - QMA currently uses Concentra to conduct **drug tests and TB tests** for new hires and ongoing staff requirements.
+   - They conduct **10 to 20 tests monthly**, which include both TB and drug tests. However, Chloe mentioned that the turnaround times have not always been reliable, with results occasionally being delayed beyond the promised **24 to 48-hour** timeframe.
+   - Chloe mentioned that they need results back within the **24-48 hour period** as promised and have had issues with results taking longer, which has impacted their workflow.
+
+3. **Vitable Health's Offerings**
+   - Ryan presented Vitable Health’s capabilities in providing both **drug testing** and **TB testing** services via partnerships with **Labcorp** and **Quest**.
+   - Vitable's **one-step TB blood test** (Quantiferon Gold) was highlighted as a faster alternative to the traditional two-step PPD test, reducing the need for a follow-up appointment and thereby increasing efficiency.
+   - Vitable also offers a **digitized portal system** where QMA can schedule tests, and employees receive **text messages and emails** to pick a location convenient to them for their tests. The portal can be accessed **24/7**.
+
+4. **Pricing and Process Considerations**
+   - The pricing structure was shared with QMA. For both drug and TB testing at Labcorp, the cost is **$65 per test**. If QMA requires more than the allotted number of tests for a quarter, an **overage fee** of **$125 per test** applies unless they purchase an additional bundle in advance.
+   - Chloe raised questions about how unused tests would be handled, and Ryan explained that there is generally no rollover, which is why they recommend purchasing the lower estimated number of tests.
+   - Ryan emphasized that Vitable Health’s focus is on providing reliable **turnaround times**, meeting the 24-48 hour expectation that QMA has set.
+
+5. **QMA’s Requirements and Concerns**
+   - Chloe and Danielle were specifically interested in ensuring that any new provider could meet their needs regarding **efficient turnaround times** and **test accuracy**.
+   - Chloe highlighted the need for **Saturday testing**, and Ryan assured her that these logistics could be worked out, depending on the testing partner.
+   - They also discussed whether Vitable Health could accommodate **chest X-rays** if TB tests returned positive results, as required by state regulations in Delaware. Ryan indicated that he would need to verify if this could be included through their Labcorp partnership.
+
+6. **Next Steps and Follow-Up**
+   - Ryan agreed to send an updated **PowerPoint presentation** with clear distinctions between the TB and drug test offerings, including pricing details and coverage specifics.
+   - Chloe mentioned that she and Danielle would need to present the information to their management team before making any decisions. They were not able to commit to a timeline for a follow-up meeting but indicated they would reach out if there was interest in proceeding.
+
+**Company Information:**
+
+1. **Company Name**: QMA
+2. **Company Industry**: Occupational Health Services
+3. **Company Size**: Not specified in this meeting.
+4. **Previous Knowledge of Health Benefits**: Limited, using **Concentra** for health-related testing services.
+5. **Core Challenges**:
+   - **Unreliable turnaround times** for drug and TB testing, often exceeding the **24-48 hour** expectation.
+   - A need for **more efficient** and **cost-effective** health testing services.
+6. **What They're Looking For**:
+   - An **alternative provider** for occupational health testing, particularly **drug and TB tests**.
+   - **Quick turnaround times** within **24-48 hours** for testing results.
+   - Flexible options that include **weekend testing** and potentially **chest X-rays** for TB-positive results.
